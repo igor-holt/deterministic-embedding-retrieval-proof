@@ -1,0 +1,203 @@
+{
+  "seed": 42,
+  "candidates": [
+    {
+      "size": 122805,
+      "sha256": "6721ddc386db73a3b92e3c4fedd49e25cafeb9a0240e445de0edc10d40268875",
+      "path": "./browser_downloads/sess-273542462/browser-download-20261117T123612.269045621Z-0-892431-27-RFI-0001_-_RFI_for_Cryogenic_QHPC_Testbed.pdf"
+    },
+    {
+      "size": 400247,
+      "sha256": "56280aff8d72cc58c9fa66de51b0079ad31fc0cef4598683d9c5e4eca7d20fe6",
+      "path": "./crosswalk-work/w1-riemann/arxiv-staging/manuscript_rev5.pdf"
+    },
+    {
+      "size": 79386,
+      "sha256": "094da6fdac019ce33cf7eed127891782293afe1886fba0c6d33e34c7a5fb74ac",
+      "path": "./doe-rfi-cryogenic-quantum-testbeds/response-draft-v2-merged-12pp.pdf"
+    },
+    {
+      "size": 73825,
+      "sha256": "90d7307d71df58768cd75a4bb000aec306c4d87772abfb2a23bada03bbb387bb",
+      "path": "./doe-rfi-cryogenic-quantum-testbeds/response-draft-v2-merged.pdf"
+    },
+    {
+      "size": 71615,
+      "sha256": "2049267584d10ad5f255e29643a8c7cd4ff1b92498bd32241d3298e3e4e0e125",
+      "path": "./doe-rfi-cryogenic-quantum-testbeds/response-draft.pdf"
+    },
+    {
+      "size": 69647,
+      "sha256": "be4896b8a61b5171f92f9e4274ca4ca88eeb9094e211f0d886f137a1d1586030",
+      "path": "./doe-rfi-quantum-testbed/doe-rfi-response-draft.pdf"
+    },
+    {
+      "size": 145274,
+      "sha256": "54d504ad0ec267b537b36130c9d01e34035d04e2960b7b8d3ad03d2b08452cfb",
+      "path": "./file-versions/alliance-all19-colony-application-pack/v1/tree/alliance-all19-colony-application-pack.pdf"
+    },
+    {
+      "size": 162650,
+      "sha256": "a4e004ea3da9a105c16ec6c2dc06426d0f2df7c2cab1d35f4976d3b2c3eb3c54",
+      "path": "./file-versions/gem-audit-offer/v1/tree/gem-audit-offer.pdf"
+    },
+    {
+      "size": 66387,
+      "sha256": "c29392eb404c398fbb02abe6098f82b0916906757558874c029ef2fc0fc7a01e",
+      "path": "./file-versions/igor-holt-resume-matraix/v1/tree/igor-holt-resume-matraix.pdf"
+    },
+    {
+      "size": 275948,
+      "sha256": "bf52d96f1a9a2176289ea1a1a8bdec5fc9ee8abbc565c73a3ca2e97c05c7f267",
+      "path": "./file-versions/mcp-eu-ai-act-evidence-gateway-mvp-spec/v1/tree/mcp-eu-ai-act-evidence-gateway-mvp-spec.pdf"
+    },
+    {
+      "size": 317076,
+      "sha256": "dacf75cdde80650672bc95ff85fb08baacd564267fad95e18a902ef4a93213f3",
+      "path": "./file-versions/mcp-eu-ai-act-evidence-gateway-mvp-spec/v2/tree/mcp-eu-ai-act-evidence-gateway-mvp-spec.pdf"
+    },
+    {
+      "size": 89762,
+      "sha256": "c96fb69818ac962a38337b7c6b47ffc423c07531b7fb394fa5d16c03ce02834e",
+      "path": "./goals/infra-ops-and-sre-job-applications/files/Igor_Holt_Resume.pdf"
+    },
+    {
+      "size": 69269,
+      "sha256": "3d90406ff1b29baf87c27a4394619d7b7b2e3c093902727774b95f2b6ceb8c70",
+      "path": "./goals/infra-ops-and-sre-job-applications/files/Oxide_Candidate_Materials_Igor_Holt.pdf"
+    },
+    {
+      "size": 69264,
+      "sha256": "667e1c86eb51e9340248928643ed64aae392d14f8dd936538fbfd8bcead6cae2",
+      "path": "./goals/infra-ops-and-sre-job-applications/files/oxide-candidate-materials-draft/.src/validate/oxide-candidate-materials-draft.pdf"
+    },
+    {
+      "size": 4360,
+      "sha256": "08a03dc918627a7beadf9bbb37ef43473e4cc34835b866e257831be8c2acb346",
+      "path": "./goals/ugreen-hackathon-2026-ai-nas-skill/files/provenance-file-triage-proposal.pdf"
+    },
+    {
+      "size": 96081,
+      "sha256": "b597d505540a863605d13936854678dad3f05f6a43cb27b6ba61460bc5a38c6b",
+      "path": "./goals/ugreen-hackathon-2026-ai-nas-skill/files/sentinel-entry-audit/sentinel-entry-audit.pdf"
+    },
+    {
+      "size": 4274,
+      "sha256": "c2cfe812693dc002214467fe7cc34af5eb14972833d04a14ccdd590c6176022b",
+      "path": "./goals/ugreen-hackathon-2026-ai-nas-skill/files/sentinel-proposal.pdf"
+    },
+    {
+      "size": 1092999,
+      "sha256": "1aa5e545e641338a7a40d9f689e78d2805766848fa650f0d40da839fbab40618",
+      "path": "./quantum-comp/data/verifiable_circuit_compilation.pdf"
+    },
+    {
+      "size": 73776,
+      "sha256": "270e927a819dee674335629e77fdad1fce2bde7f60f6396914024eb1acd69358",
+      "path": "./technosignature/fixes/Information-Thermodynamic-Technosignatures-corrected.pdf"
+    },
+    {
+      "size": 430918,
+      "sha256": "12501ad6cd2d0a9b8023c1c3773e9edd06681728d69b59a579179cba6070438d",
+      "path": "./technosignature/fixes/drive-copy-A.pdf"
+    },
+    {
+      "size": 341613,
+      "sha256": "abaaef0e81730de09a78e76e4da8904925b89f33e4f9d10bda24504aa369f86e",
+      "path": "./technosignature/fixes/drive-copy-B.pdf"
+    },
+    {
+      "size": 456538,
+      "sha256": "92d6bec4be6e446fe61fcaf0563a19ba27813cebb5e48bc89db9f1cf1bfd2d7b",
+      "path": "./user/files/5b050ef3-8474-426f-93ab-f0552afba844.pdf"
+    },
+    {
+      "size": 163072,
+      "sha256": "9e969e81cef6096a85e9433f1e4b4a038c485c50bb5de35fa63e157155132d6b",
+      "path": "./user/files/Ag1.5O0.7_Silver_Suboxide_BoardyAI_Pitch.pdf"
+    },
+    {
+      "size": 89185,
+      "sha256": "616cc26d47b8573fe2829011d8986fdafa7b7de3849a2fd11f030439d3c31661",
+      "path": "./user/files/Monetizing_20Sovereign_20Invariance_20Suite.pdf.pdf"
+    },
+    {
+      "size": 409906,
+      "sha256": "7cdd5c6cac0a97b4f0f427c0c49080edbea05f4ebeb51cce062dcddc15b2b18b",
+      "path": "./user/files/eta_thermo_arxiv_preprint.pdf"
+    },
+    {
+      "size": 94235,
+      "sha256": "6f05dc18d6a93d6c21dd0398c69de3dd0a2f2427045224be49d9b2b6aa9c2b65",
+      "path": "./user/files/genesis_revenue_plan.pdf"
+    },
+    {
+      "size": 120372,
+      "sha256": "5d2cfee41c99a9dcbacb916ebfc2336454e03643528c9b89b7bf30af783d9d2b",
+      "path": "./user/files/lightspeed-cost-management-api-cheatsheet.pdf"
+    },
+    {
+      "size": 16699,
+      "sha256": "16ddbb738d71e5af25ae4ecd31e0c8cf724d23eedfa080f2162127f25ef70c38",
+      "path": "./your_files/forbes-2026-benchmark.pdf"
+    },
+    {
+      "size": 6001,
+      "sha256": "afb9d9fb379fadaa2b4dc7abee941f65eb42d4635876386b7a4ae57fa021e01b",
+      "path": "./your_files/mpcvault-demo-brief-2026-11-02.pdf"
+    }
+  ],
+  "selected": [
+    {
+      "size": 341613,
+      "sha256": "abaaef0e81730de09a78e76e4da8904925b89f33e4f9d10bda24504aa369f86e",
+      "path": "./technosignature/fixes/drive-copy-B.pdf"
+    },
+    {
+      "size": 73825,
+      "sha256": "90d7307d71df58768cd75a4bb000aec306c4d87772abfb2a23bada03bbb387bb",
+      "path": "./doe-rfi-cryogenic-quantum-testbeds/response-draft-v2-merged.pdf"
+    },
+    {
+      "size": 122805,
+      "sha256": "6721ddc386db73a3b92e3c4fedd49e25cafeb9a0240e445de0edc10d40268875",
+      "path": "./browser_downloads/sess-273542462/browser-download-20261117T123612.269045621Z-0-892431-27-RFI-0001_-_RFI_for_Cryogenic_QHPC_Testbed.pdf"
+    },
+    {
+      "size": 89185,
+      "sha256": "616cc26d47b8573fe2829011d8986fdafa7b7de3849a2fd11f030439d3c31661",
+      "path": "./user/files/Monetizing_20Sovereign_20Invariance_20Suite.pdf.pdf"
+    },
+    {
+      "size": 66387,
+      "sha256": "c29392eb404c398fbb02abe6098f82b0916906757558874c029ef2fc0fc7a01e",
+      "path": "./file-versions/igor-holt-resume-matraix/v1/tree/igor-holt-resume-matraix.pdf"
+    },
+    {
+      "size": 162650,
+      "sha256": "a4e004ea3da9a105c16ec6c2dc06426d0f2df7c2cab1d35f4976d3b2c3eb3c54",
+      "path": "./file-versions/gem-audit-offer/v1/tree/gem-audit-offer.pdf"
+    },
+    {
+      "size": 94235,
+      "sha256": "6f05dc18d6a93d6c21dd0398c69de3dd0a2f2427045224be49d9b2b6aa9c2b65",
+      "path": "./user/files/genesis_revenue_plan.pdf"
+    },
+    {
+      "size": 71615,
+      "sha256": "2049267584d10ad5f255e29643a8c7cd4ff1b92498bd32241d3298e3e4e0e125",
+      "path": "./doe-rfi-cryogenic-quantum-testbeds/response-draft.pdf"
+    },
+    {
+      "size": 16699,
+      "sha256": "16ddbb738d71e5af25ae4ecd31e0c8cf724d23eedfa080f2162127f25ef70c38",
+      "path": "./your_files/forbes-2026-benchmark.pdf"
+    },
+    {
+      "size": 1092999,
+      "sha256": "1aa5e545e641338a7a40d9f689e78d2805766848fa650f0d40da839fbab40618",
+      "path": "./quantum-comp/data/verifiable_circuit_compilation.pdf"
+    }
+  ],
+  "exclusions": "2 browser-page printouts under .hatch-browser/outputs (not papers/docs); 5 duplicate files removed by sha256; 1 directory entry dropped (sha256 failed)"
+}

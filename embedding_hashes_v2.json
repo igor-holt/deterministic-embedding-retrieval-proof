@@ -1,0 +1,16 @@
+{
+  "shape": [
+    693,
+    384
+  ],
+  "dtype": "int16",
+  "pass_seconds": [
+    398.2,
+    332.6
+  ],
+  "pass1_sha256": "e3e0215c3f192fc8ae54c1fdb7cdb17d39966276cce9b528eef5880bdf0efb13",
+  "pass2_sha256": "e3e0215c3f192fc8ae54c1fdb7cdb17d39966276cce9b528eef5880bdf0efb13",
+  "bit_identical": true,
+  "pass1_seconds": 398.2,
+  "pass2_seconds": 332.6
+}

@@ -1,0 +1,12 @@
+{
+  "seed": 20261118,
+  "n_chunks": 693,
+  "test1_sets_identical": true,
+  "test1_matrix_exact": true,
+  "test2_vectors_identical": true,
+  "test2_vectors_match_count": 693,
+  "test2_hash_match": true,
+  "test2_reordered_back_sha256": "e3e0215c3f192fc8ae54c1fdb7cdb17d39966276cce9b528eef5880bdf0efb13",
+  "test2_pass1_sha256": "e3e0215c3f192fc8ae54c1fdb7cdb17d39966276cce9b528eef5880bdf0efb13",
+  "verdict": "PASS"
+}

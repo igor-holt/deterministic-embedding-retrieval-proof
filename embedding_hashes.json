@@ -1,0 +1,12 @@
+{
+  "pass1_sha256": "e3fe5b6d1ca5cd98c467b0c48b09e7abf9d4d33463d752dc0438f1722e48199d",
+  "pass2_sha256": "e3fe5b6d1ca5cd98c467b0c48b09e7abf9d4d33463d752dc0438f1722e48199d",
+  "bit_identical": true,
+  "shape": [
+    699,
+    384
+  ],
+  "dtype": "int16",
+  "pass1_seconds": 399.4,
+  "pass2_seconds": 375.7
+}
